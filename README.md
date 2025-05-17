@@ -16,4 +16,4 @@ A web-based implementation of the classic 2048 game, showcasing my front-end dev
   - **JavaScript**: Core game logic, event handling, and real-time DOM manipulation.
   - **Git**: Version control for efficient project tracking and portfolio readiness.
 
-[LIVE DEMO](https://bohdandymydiuk.github.io/js-2048/)
+[LIVE DEMO](https://bohdandymydiuk.github.io/2048MindBreaker/)
